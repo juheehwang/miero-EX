@@ -1,3 +1,3 @@
-# Exercise
-Front-end basic tools
+# Front-end Exercise
+HTML/CSS/JS basic tools
 미에로화이바 
